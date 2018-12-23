@@ -1,0 +1,19 @@
+﻿<Window x:Class="KaiXinXiaoMoNv.SetTouMing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SetTouMing" Height="93" Width="197" ShowInTaskbar="False" AllowsTransparency="True" WindowStyle="None" Loaded="Window_Loaded">
+    <Window.BorderBrush>
+        <SolidColorBrush />
+    </Window.BorderBrush>
+    <Window.Background>
+        <SolidColorBrush />
+    </Window.Background>
+    <Grid Height="59" Width="171">
+        <Slider Height="23" HorizontalAlignment="Left" Margin="10,20,0,0" Name="TouMing_slider" VerticalAlignment="Top" Width="120" ValueChanged="TouMing_slider_ValueChanged" SelectionEnd="1" Maximum="1" Foreground="#FFBC550A" />
+        <Button Name="Close_button"  Content="0" Height="22" HorizontalAlignment="Right" Margin="0,20,20,0" VerticalAlignment="Top" Width="25" Click="Close_button_Click" Background="#5287B12D" >
+            <Button.BorderBrush>
+                <SolidColorBrush />
+            </Button.BorderBrush>
+        </Button>
+    </Grid>
+</Window>

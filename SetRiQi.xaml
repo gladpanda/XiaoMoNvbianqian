@@ -1,0 +1,18 @@
+﻿<Window x:Class="KaiXinXiaoMoNv.SetRiQi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SetTouMing" Height="222" Width="221" ShowInTaskbar="False" AllowsTransparency="True" WindowStyle="None" Closed="Window_Closed" Loaded="Window_Loaded">
+    <Window.BorderBrush>
+        <SolidColorBrush />
+    </Window.BorderBrush>
+    <Window.Background>
+        <SolidColorBrush />
+    </Window.Background>
+    <Grid Height="184" Width="200">
+        <Calendar Height="165" HorizontalAlignment="Left" Margin="10,7,0,0" Name="RiQi_calendar" VerticalAlignment="Top" Width="180" BorderBrush="#FFB49268" SelectedDatesChanged="RiQi_calendar_SelectedDatesChanged">
+            <Calendar.Background>
+                <ImageBrush ImageSource="/KaiXinXiaoMoNv;component/Images/RiLi.png" />
+            </Calendar.Background>
+        </Calendar>
+    </Grid>
+</Window>

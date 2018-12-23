@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\SetTouMing.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\SetRiQi.baml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\SetTouMing.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\SetRiQi.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv_MarkupCompile.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.g.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.exe.manifest
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.application
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.pdb
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\MainWindow.baml
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\SetTouMing.baml
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\SetRiQi.baml
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\MainWindow.g.cs
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\SetTouMing.g.cs
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\SetRiQi.g.cs
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\App.g.cs
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv_MarkupCompile.cache
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.g.resources
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.Properties.Resources.resources
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\XiaoMoNvBianQian.csproj.GenerateResource.cache
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.exe.manifest
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.application
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.exe
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\bin\Debug\KaiXinXiaoMoNv.pdb
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\XiaoMoNvBianQian.csproj.CoreCompileInputs.cache
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.exe.manifest
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.application
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.exe
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\KaiXinXiaoMoNv.pdb
+C:\Users\GYYing\source\repos\XiaoMoNvBianQian\obj\x86\Debug\XiaoMoNvBianQian.csprojAssemblyReference.cache

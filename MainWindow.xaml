@@ -1,0 +1,80 @@
+﻿<Window x:Class="KaiXinXiaoMoNv.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="450" Width="350" WindowStyle="None" AllowsTransparency="True" MouseLeftButtonDown="Window_MouseLeftButtonDown" Icon="/KaiXinXiaoMoNv;component/Icon.ico" VerticalContentAlignment="Bottom" Topmost="True" ShowInTaskbar="False" WindowState="Normal" Opacity="1">
+    <Window.BorderBrush>
+        <SolidColorBrush />
+    </Window.BorderBrush>
+    <Window.Background>
+        <SolidColorBrush />
+    </Window.Background>    
+    <Grid Height="400" Width="330">
+        <Image Name="Back_image" Source="/KaiXinXiaoMoNv;component/2010.png" Opacity="1"></Image>
+        <Button Name="C_bt" Width="15" Height="15" Margin="257,21,53,359" Click="Close_Click">
+            <Button.Foreground>
+                <SolidColorBrush />
+            </Button.Foreground>
+            <Button.BorderBrush>
+                <SolidColorBrush />
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="/KaiXinXiaoMoNv;component/Images/TuiChu.png" />
+            </Button.Background>
+        </Button>
+        <Button Width="15" Height="15" Margin="97,27,218,358" Click="exit_Click">
+            <Button.Foreground>
+                <SolidColorBrush />
+            </Button.Foreground>
+            <Button.BorderBrush>
+                <SolidColorBrush />
+            </Button.BorderBrush>
+            <Button.Background>
+                <ImageBrush ImageSource="/KaiXinXiaoMoNv;component/Images/XieRu.png" />
+            </Button.Background>
+        </Button>
+       <TextBox Name="Messages" Margin="89,75,42,92" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" AcceptsReturn="True" FontStretch="Normal" FontSize="14" Foreground="#FF482C05" MouseDoubleClick="Messages_MouseDoubleClick">
+            <TextBox.ContextMenu>
+                <ContextMenu Name="XieRu" StaysOpen="True" BorderBrush="#FF957548">
+                    <MenuItem Name="ShuaXin" Header="刷新" Click="ShuaXin_Click" Foreground="#FF2C1A02">
+                        <MenuItem.Background>
+                            <SolidColorBrush />
+                        </MenuItem.Background>
+                    </MenuItem>
+                    <Separator Background="#FF957548">
+                    </Separator>
+                    <MenuItem Name="ShuJuKu" Header="写入数据库" Click="XieRu_Click" Foreground="#FF2C1A02">
+                        <MenuItem.Background>
+                            <SolidColorBrush />
+                        </MenuItem.Background>
+                    </MenuItem>
+                    <Separator Background="#FF957548">
+                    </Separator>
+                    <MenuItem Name="TouMingDu" Header="透明度设置" Click="TouMing_Click" Foreground="#FF2C1A02">
+                        <MenuItem.Background>
+                            <SolidColorBrush />
+                        </MenuItem.Background>
+                        </MenuItem>
+                    <MenuItem Name="RiLi" Header="以往便签" Click="RiQi_Click" Foreground="#FF2C1A02">
+                        <MenuItem.Background>
+                            <SolidColorBrush />
+                        </MenuItem.Background>
+                    </MenuItem>
+                    <Separator Background="#FF957548">                        
+                    </Separator>
+                    <MenuItem Name="Exit" Header="退出" Click="exit_Click" Foreground="#FF2C1A02">
+                        <MenuItem.Background>
+                            <SolidColorBrush />
+                        </MenuItem.Background>
+                    </MenuItem>
+                </ContextMenu>
+            </TextBox.ContextMenu>
+            <TextBox.BorderBrush>
+                <SolidColorBrush />
+            </TextBox.BorderBrush>
+            <TextBox.Background>
+                <SolidColorBrush />
+            </TextBox.Background>
+        </TextBox>
+        <Label Content="welcome" Height="25" HorizontalAlignment="Left" Margin="147,36,0,0" Name="Date_label" VerticalAlignment="Top" Foreground="#FF75460A" FontFamily="YouYuan" />
+    </Grid>
+</Window>
